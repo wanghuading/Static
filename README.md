@@ -1,2 +1,1 @@
-# Static
-static
+# 记录常见问题
