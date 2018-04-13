@@ -20,3 +20,6 @@ AOP相关概念
 ThrowAdvice、DynamicIntroductionAdvice
 切入点（PointCut）：指定一个通知被引发的一系列连接点的集合
 引入（Introduction）：添加方法或字段到被通知的类。Spring允许引入新的接口道任何被通知的对象。
+目标对象（Target Object）：包含连接点对象。
+AOP代理（AOP Proxy）：AOP框架创建的对象，包含通知。在Spring中，AOP代理可以是JDK动态代理或CGLIB代理。
+织入（Weaving）：组装方面来创建一个被通知对象。这可以在编译时或者运行时完成。Spring和其他纯JAVA AOP一样，在运行时织入。
