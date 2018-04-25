@@ -11,7 +11,7 @@ public class InnerSingleton {
 
     /**
   * @Author whd
-  * @Date 2018/4/24 18:31
+  * @Date 2018/4/25 0:10
   * @Param []
   * @Return
   * @Description 私有化构造方法，防止暴力反射，导致单例被破坏，即会产生多个实例
