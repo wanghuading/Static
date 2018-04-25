@@ -28,6 +28,13 @@ public class DeepClone implements Cloneable, Serializable {
 //        return super.clone();
     }
 
+    /**
+      * @Author whd
+      * @Date 2018/4/25 12:11
+      * @Param []
+      * @Return java.lang.Object
+      * @Description 效率是个问题
+      **/
     private Object serialDeepClone() {
         try {
             ByteArrayOutputStream bos = new ByteArrayOutputStream();

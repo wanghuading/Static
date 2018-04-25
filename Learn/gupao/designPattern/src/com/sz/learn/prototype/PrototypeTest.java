@@ -8,9 +8,9 @@ package com.sz.learn.prototype;
 public class PrototypeTest {
     public static void main(String[] args) {
         try {
-            SerialDeepClone serialDeepClone = new SerialDeepClone();
-            SerialDeepClone serialDeepClone1 = (SerialDeepClone) serialDeepClone.clone();
-            System.out.println(serialDeepClone.getMonkey() == serialDeepClone.getMonkey());
+            DeepClone deepClone = new DeepClone();
+            DeepClone deepClone1 = (DeepClone) deepClone.clone();
+            System.out.println(deepClone.getMonkey() == deepClone1.getMonkey());
 
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
