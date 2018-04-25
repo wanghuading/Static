@@ -13,11 +13,11 @@ import java.lang.reflect.Modifier;
  * @Date 2018/4/24 23:57
  * @Description
  **/
-public class SerialDeepClone implements Cloneable, Serializable {
+public class DeepClone implements Cloneable, Serializable {
     private int k = 1;
     private Monkey monkey;
 
-    public SerialDeepClone() {
+    public DeepClone() {
         monkey = new Monkey();
     }
 
