@@ -1,0 +1,73 @@
+Redis安装与使用
+       Redis是一个内存存储数据结构的服务器，通常使用redis作为缓存服务器，redis不仅支持简单的keyValue字符串结构，还支持Map、List、Set数据结构，并具有很高的读取性能。通常在分布式环境下，也会使用redis存储session，从而达到共享session的目的。redis的数据是存储在内存中的，数据量增长时，内存负担也会增加，通常生产环境中需要设立独立的服务器去支持，避免redis影响web应用服务性能。
+ 
+#下载Redis，解压，编译安装
+1 wget http://download.redis.io/releases/redis-3.0.7.tar.gz
+2 tar -xvzf redis-3.0.7.tar.gz
+3 cd redis-3.0.7
+4 make
+5 make install 
+ 
+#创建运行命令路径，和配置文件
+mkdir /usr/local/redis
+cp -rf ./src/redis-cli ./src/redis-server ./redis.conf /usr/local/redis/
+cd /usr/local/redis/
+ 
+#编辑redis.conf配置文件
+daemonize yes
+pidfile /var/run/redis.pid
+port 6379
+ 
+#设置开机自启动命令
+#新建编辑 /etc/init.d/redis
+REDISPORT=6379
+EXEC=/usr/local/redis/redis-server
+CLIEXEC=/usr/local/redis/redis-cli
+PIDFILE=/var/run/redis.pid
+CONF="/usr/local/redis/redis.conf"
+  
+case "$1" in
+    start)
+        if [ -f $PIDFILE ]
+        then
+            echo "$PIDFILE exists, process is already running or crashed"
+        else
+            echo "Starting Redis server..."
+            $EXEC $CONF
+        fi
+        ;;
+    stop)
+        if [ ! -f $PIDFILE ]
+        then
+            echo "$PIDFILE does not exist, process is not running"
+        else
+            PID=$(cat $PIDFILE)
+            echo "Stopping ..."
+            $CLIEXEC -p $REDISPORT shutdown
+            while [ -x /proc/${PID} ]
+            do
+                echo "Waiting for Redis to shutdown ..."
+                sleep 1
+            done
+            echo "Redis stopped"
+        fi
+        ;;
+    *)
+        echo "Please use start or stop as first argument"
+        ;;
+esac
+ 
+# 加入到系统服务
+chmod +x /etc/init.d/redis
+chkconfig --add redis
+chkconfig redis on
+ 
+#启动服务
+service redis start
+ 
+# redis 查询命令
+/usr/local/redis/redis-cli flushall
+/usr/local/redis/redis-cli -n 0 keys '*'
+/usr/local/redis/redis-cli -n 0 dbsize
+/usr/local/redis/redis-cli -n 0 flushdb
+/usr/local/redis/redis-cli -n 0 keys '*' | wc -l

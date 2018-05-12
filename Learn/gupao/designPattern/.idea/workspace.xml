@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8caeb53a-f89b-4a2b-9062-3e260f11cb63" name="Default" comment="" />
+    <list default="true" id="8caeb53a-f89b-4a2b-9062-3e260f11cb63" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,111 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-172">
-                <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObserverTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegisterSingleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/singleton/register/RegisterSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="66" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnumSingleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/singleton/register/EnumSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ILogin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/ILogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThirdLogin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/ThirdLogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IThirdLogin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/IThirdLogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,17 +36,22 @@
       <find>callback</find>
       <find>superclass</find>
       <find>$Proxy0</find>
+      <find>c</find>
+      <find>hashCode</find>
+      <find>putObjectVolatile</find>
+      <find>MOVED</find>
+      <find>ForwardingNode</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sz/learn/agent/statics/StaticsAgent.java" />
-        <option value="$PROJECT_DIR$/src/com/sz/learn/agent/statics/StaticsAgentTest.java" />
-        <option value="$PROJECT_DIR$/src/com/sz/learn/agent/Person.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/agent/Chef.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/agent/jdk/jdkAgent.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/agent/jdk/jdkAgentTest.java" />
@@ -184,7 +89,6 @@
         <option value="$PROJECT_DIR$/src/com/sz/learn/adapter/Result.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/adapter/Login.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/decorator/ILogin.java" />
-        <option value="$PROJECT_DIR$/src/com/sz/learn/decorator/Login.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/decorator/IThirdLogin.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/decorator/ThirdLogin.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/adapter/ThirdLoginAdapter.java" />
@@ -195,6 +99,10 @@
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/EventListener.java" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/src/com/sz/learn/decorator/Login.java" />
+        <option value="$PROJECT_DIR$/src/com/sz/learn/MyString.java" />
+        <option value="$PROJECT_DIR$/src/com/sz/learn/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/sz/learn/Alibaba.java" />
       </list>
     </option>
   </component>
@@ -204,12 +112,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="579" />
-    <option name="y" value="303" />
-    <option name="width" value="1139" />
-    <option name="height" value="857" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="553" />
+    <option name="y" value="135" />
+    <option name="width" value="1212" />
+    <option name="height" value="873" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -218,6 +127,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,42 +166,6 @@
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sz" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sz" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sz" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sz" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -307,13 +181,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/servlet-api-2.4.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../KMQueue" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -346,29 +219,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObserverTest">
-    <configuration name="CglibAgentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sz.learn.agent.cglib.CglibAgentTest" />
+  <component name="RunManager" selected="Application.Alibaba">
+    <configuration name="Alibaba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.learn.Alibaba" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sz.learn.agent.cglib.*" />
+          <option name="PATTERN" value="com.sz.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="CustomAgentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sz.learn.agent.custom.CustomAgentTest" />
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sz.learn.agent.custom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="CustomProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sz.learn.agent.custom.CustomProxy" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
@@ -397,6 +260,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.learn.Test" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -413,19 +286,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.CglibAgentTest" />
-      <item itemvalue="Application.CustomProxy" />
       <item itemvalue="Application.CustomAgentTest" />
       <item itemvalue="Application.StrategyTest" />
       <item itemvalue="Application.ObserverTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Alibaba" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Alibaba" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ObserverTest" />
         <item itemvalue="Application.StrategyTest" />
         <item itemvalue="Application.CustomAgentTest" />
-        <item itemvalue="Application.CustomProxy" />
-        <item itemvalue="Application.CglibAgentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -445,41 +318,77 @@
       <workItem from="1524808561048" duration="11964000" />
       <workItem from="1524888095716" duration="998000" />
       <workItem from="1524957653500" duration="12983000" />
+      <workItem from="1525133386371" duration="5373000" />
+      <workItem from="1525157110890" duration="1147000" />
+      <workItem from="1525361435466" duration="24346000" />
+      <workItem from="1525599678808" duration="1815000" />
+      <workItem from="1525740089835" duration="598000" />
+      <workItem from="1525921386949" duration="616000" />
+      <workItem from="1526054349302" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79522000" />
+    <option name="totallyTimeSpent" value="113441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32998884" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008772" side_tool="true" weight="0.32998565" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991228" weight="0.328125" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18508583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15772532" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33482143" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.32924107" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Module Dependencies" order="4" weight="0.3299356" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32998884" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34561405" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Module Dependencies" order="0" weight="0.3299356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32924107" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32998884" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32924107" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.65710187" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -539,7 +448,7 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -569,433 +478,758 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/javax/tools/JavaFileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="104" column="32" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JdkAgent.class" />
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/ClassNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="762" selection-start-line="762" selection-end-line="762" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomAgentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/custom/$Proxy0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/jdk/JdkAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/cglib/CglibAgentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/Telephone.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/IThirdLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/BuildCommunication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/App.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/ByteArrayInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/Communication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+    <entry file="uml://JAVA/java.io.InputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.InputStream</OriginalElement>
+          <nodes>
+            <node x="383.4814814814815" y="362.0">java.util.zip.GZIPInputStream</node>
+            <node x="242.0" y="264.0">java.io.ByteArrayInputStream</node>
+            <node x="182.93981481481484" y="88.0">java.io.Closeable</node>
+            <node x="20.0" y="264.0">java.io.FileInputStream</node>
+            <node x="164.43981481481484" y="0.0">java.lang.AutoCloseable</node>
+            <node x="334.91203703703707" y="176.0">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.ByteArrayInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-19.0" />
+              <point x="356.5" y="244.0" />
+              <point x="393.41203703703707" y="244.0" />
+              <point x="-19.5" y="19.0" />
+            </edge>
+            <edge source="java.io.FileInputStream" target="java.io.Closeable">
+              <point x="-45.5" y="-19.0" />
+              <point x="65.5" y="151.0" />
+              <point x="216.43981481481484" y="151.0" />
+              <point x="-33.5" y="19.0" />
+            </edge>
+            <edge source="java.util.zip.GZIPInputStream" target="java.io.InputStream">
+              <point x="64.33333333333337" y="-19.0" />
+              <point x="544.3148148148149" y="342.0" />
+              <point x="492.5" y="342.0" />
+              <point x="492.5" y="234.0" />
+              <point x="471.41203703703707" y="234.0" />
+              <point x="58.500000000000014" y="19.0" />
+            </edge>
+            <edge source="java.util.zip.GZIPInputStream" target="java.util.zip.GZIPInputStream">
+              <point x="0.0" y="19.0" />
+              <point x="479.9814814814815" y="420.0" />
+              <point x="363.4814814814815" y="420.0" />
+              <point x="363.4814814814815" y="381.0" />
+              <point x="-96.5" y="-0.0" />
+            </edge>
+            <edge source="java.io.ByteArrayInputStream" target="java.io.ByteArrayInputStream">
+              <point x="-57.25" y="19.0" />
+              <point x="299.25" y="322.0" />
+              <point x="222.0" y="322.0" />
+              <point x="222.0" y="283.0" />
+              <point x="-114.5" y="-0.0" />
+            </edge>
+            <edge source="java.util.zip.GZIPInputStream" target="java.io.ByteArrayInputStream">
+              <point x="-64.33333333333331" y="-19.0" />
+              <point x="415.64814814814815" y="342.0" />
+              <point x="413.75" y="342.0" />
+              <point x="57.25" y="19.0" />
+            </edge>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="0.0" y="-19.0" />
+              <point x="412.91203703703707" y="151.0" />
+              <point x="283.43981481481484" y="151.0" />
+              <point x="33.5" y="19.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.io.FileInputStream" target="java.io.InputStream">
+              <point x="45.5" y="-19.0" />
+              <point x="156.5" y="234.0" />
+              <point x="354.41203703703707" y="234.0" />
+              <point x="-58.5" y="19.0" />
+            </edge>
+            <edge source="java.io.FileInputStream" target="java.io.FileInputStream">
+              <point x="0.0" y="19.0" />
+              <point x="111.0" y="322.0" />
+              <point x="0.0" y="322.0" />
+              <point x="0.0" y="283.0" />
+              <point x="-91.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-377.0" y="-83.0" />
+          <SelectedNodes>
+            <node>java.io.FileInputStream</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/CommunicaEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/Face.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/strategy/StrategyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/javax/swing/tree/RowMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-692" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="1367" column="8" selection-start-line="1367" selection-start-column="8" selection-end-line="1367" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/template/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/template/RowMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/template/JdbcTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/template/PersonDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#233#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9690">
-          <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/delegate/controllers/MemberAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/delegate/controllers/OrderAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/delegate/controllers/SystemAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/delegate/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/adapter/Result.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/statics/StaticsAgentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/agent/statics/StaticsAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/adapter/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/adapter/ThirdLoginAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="483" column="51" selection-start-line="483" selection-start-column="37" selection-end-line="483" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/EventEntity.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/FilterInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430">
-          <caret line="3027" column="37" selection-start-line="3027" selection-start-column="23" selection-end-line="3027" selection-end-column="37" />
+        <state relative-caret-position="299">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/EventListener.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/BufferedInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="156" column="31" lean-forward="true" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/EventType.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="297">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/Observer.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Future.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="-420">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/Subject.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/RunnableFuture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="420">
+          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="647" column="20" selection-start-line="647" selection-start-column="20" selection-end-line="647" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="235" column="24" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="634" column="63" lean-forward="true" selection-start-line="634" selection-start-column="63" selection-end-line="634" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="456" column="80" lean-forward="true" selection-start-line="456" selection-start-column="80" selection-end-line="456" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Readable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/singleton/register/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/singleton/register/RegisterSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="66" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="66" />
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/ThirdLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="8" column="4" selection-start-line="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/Login.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="750">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/IThirdLogin.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/InputStreamReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state relative-caret-position="1350">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/ILogin.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="1500">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="115" column="11" selection-start-line="115" selection-start-column="11" selection-end-line="115" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Collection">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collection</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="63.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="160" column="22" lean-forward="true" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-172">
-            <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="31" />
+          <first_editor relative-caret-position="441">
+            <caret line="43" column="69" lean-forward="true" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.List">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.List</OriginalElement>
+          <nodes>
+            <node x="757.25" y="294.0">java.util.SortedSet</node>
+            <node x="420.25" y="294.0">java.util.PriorityQueue</node>
+            <node x="192.25" y="651.0">java.util.HashMap</node>
+            <node x="289.25" y="294.0">java.util.Deque</node>
+            <node x="686.059523809524" y="382.0">java.util.TreeSet</node>
+            <node x="4.5" y="382.0">java.util.Stack</node>
+            <node x="399.25" y="0.0">java.lang.Iterable</node>
+            <node x="131.0" y="294.0">java.util.ArrayList</node>
+            <node x="560.9915966386556" y="739.0">java.util.LinkedHashMap</node>
+            <node x="922.9583333333334" y="294.0">java.util.HashSet</node>
+            <node x="0.0" y="294.0">java.util.Vector</node>
+            <node x="517.25" y="465.0">java.util.Map</node>
+            <node x="232.9803571428571" y="382.0">java.util.LinkedList</node>
+            <node x="861.9583333333334" y="382.0">java.util.LinkedHashSet</node>
+            <node x="607.25" y="294.0">java.util.EnumSet</node>
+            <node x="34.75" y="563.0">java.util.Hashtable</node>
+            <node x="655.25" y="651.0">java.util.WeakHashMap</node>
+            <node x="852.25" y="651.0">java.util.IdentityHashMap</node>
+            <node x="34.25" y="651.0">java.util.Properties</node>
+            <node x="495.25" y="651.0">java.util.EnumMap</node>
+            <node x="390.25" y="88.0">java.util.Collection</node>
+            <node x="782.25" y="206.0">java.util.Set</node>
+            <node x="485.75" y="563.0">java.util.AbstractMap</node>
+            <node x="177.75" y="206.0">java.util.List</node>
+            <node x="346.25" y="651.0">java.util.TreeMap</node>
+            <node x="316.75" y="206.0">java.util.Queue</node>
+            <node x="0.0" y="465.0">java.util.Dictionary</node>
+            <node x="305.5" y="563.0">java.util.SortedMap</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Hashtable" target="java.util.Dictionary">
+              <point x="-34.25" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.HashSet" target="java.util.Set">
+              <point x="-30.75" y="-19.0" />
+              <point x="953.7083333333334" y="264.0" />
+              <point x="858.75" y="264.0" />
+              <point x="34.0" y="19.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.Collection">
+              <point x="-31.5" y="-19.0" />
+              <point x="162.5" y="264.0" />
+              <point x="167.25" y="264.0" />
+              <point x="167.25" y="156.0" />
+              <point x="410.8" y="156.0" />
+              <point x="-47.94999999999999" y="19.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="-33.5" y="-19.0" />
+              <point x="225.75" y="533.0" />
+              <point x="537.8214285714286" y="533.0" />
+              <point x="-27.428571428571445" y="19.0" />
+            </edge>
+            <edge source="java.util.Properties" target="java.util.Hashtable">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.EnumSet" target="java.util.Collection">
+              <point x="-32.25" y="-19.0" />
+              <point x="639.5" y="166.0" />
+              <point x="493.0" y="166.0" />
+              <point x="34.25" y="19.0" />
+            </edge>
+            <edge source="java.util.TreeSet" target="java.util.Set">
+              <point x="0.0" y="-19.0" />
+              <point x="745.059523809524" y="357.0" />
+              <point x="746.75" y="357.0" />
+              <point x="746.75" y="274.0" />
+              <point x="807.75" y="274.0" />
+              <point x="-17.0" y="19.0" />
+            </edge>
+            <edge source="java.util.IdentityHashMap" target="java.util.Map">
+              <point x="48.0" y="-19.0" />
+              <point x="996.25" y="533.0" />
+              <point x="592.6785714285714" y="533.0" />
+              <point x="27.428571428571445" y="19.0" />
+            </edge>
+            <edge source="java.util.TreeMap" target="java.util.SortedMap">
+              <point x="-32.25" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.EnumSet" target="java.util.Set">
+              <point x="32.25" y="-19.0" />
+              <point x="704.0" y="264.0" />
+              <point x="790.75" y="264.0" />
+              <point x="-34.0" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedHashSet" target="java.util.Set">
+              <point x="-43.25" y="-19.0" />
+              <point x="905.2083333333334" y="357.0" />
+              <point x="912.4583333333334" y="357.0" />
+              <point x="912.4583333333334" y="274.0" />
+              <point x="841.75" y="274.0" />
+              <point x="17.0" y="19.0" />
+            </edge>
+            <edge source="java.util.SortedMap" target="java.util.Map">
+              <point x="0.0" y="-19.0" />
+              <point x="378.5" y="543.0" />
+              <point x="551.5357142857142" y="543.0" />
+              <point x="-13.714285714285722" y="19.0" />
+            </edge>
+            <edge source="java.util.SortedSet" target="java.util.Set">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.Queue" target="java.util.Collection">
+              <point x="0.0" y="-19.0" />
+              <point x="372.75" y="186.0" />
+              <point x="451.90000000000003" y="186.0" />
+              <point x="-6.849999999999966" y="19.0" />
+            </edge>
+            <edge source="java.util.WeakHashMap" target="java.util.Map">
+              <point x="44.25" y="-19.0" />
+              <point x="788.0" y="543.0" />
+              <point x="578.9642857142858" y="543.0" />
+              <point x="13.714285714285722" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedHashMap" target="java.util.Map">
+              <point x="46.0" y="-19.0" />
+              <point x="698.9915966386556" y="714.0" />
+              <point x="1054.75" y="714.0" />
+              <point x="1054.75" y="523.0" />
+              <point x="606.3928571428571" y="523.0" />
+              <point x="41.14285714285711" y="19.0" />
+            </edge>
+            <edge source="java.util.TreeSet" target="java.util.SortedSet">
+              <point x="39.33333333333337" y="-19.0" />
+              <point x="784.3928571428573" y="357.0" />
+              <point x="824.75" y="357.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.Set" target="java.util.Collection">
+              <point x="0.0" y="-19.0" />
+              <point x="824.75" y="156.0" />
+              <point x="506.70000000000005" y="156.0" />
+              <point x="47.950000000000045" y="19.0" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-19.0" />
+              <point x="220.75" y="166.0" />
+              <point x="424.5" y="166.0" />
+              <point x="-34.25" y="19.0" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.Collection">
+              <point x="-27.75" y="-19.0" />
+              <point x="27.75" y="146.0" />
+              <point x="397.1" y="146.0" />
+              <point x="-61.64999999999998" y="19.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.EnumMap" target="java.util.AbstractMap">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.TreeSet" target="java.util.Collection">
+              <point x="-39.33333333333337" y="-19.0" />
+              <point x="705.7261904761906" y="357.0" />
+              <point x="596.75" y="357.0" />
+              <point x="596.75" y="176.0" />
+              <point x="479.29999999999995" y="176.0" />
+              <point x="20.549999999999955" y="19.0" />
+            </edge>
+            <edge source="java.util.WeakHashMap" target="java.util.AbstractMap">
+              <point x="-44.25" y="-19.0" />
+              <point x="699.5" y="631.0" />
+              <point x="597.05" y="631.0" />
+              <point x="31.80000000000001" y="19.0" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.List">
+              <point x="27.75" y="-19.0" />
+              <point x="83.25" y="274.0" />
+              <point x="192.08333333333331" y="274.0" />
+              <point x="-28.666666666666686" y="19.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="33.5" y="-19.0" />
+              <point x="292.75" y="621.0" />
+              <point x="501.65" y="621.0" />
+              <point x="-63.60000000000002" y="19.0" />
+            </edge>
+            <edge source="java.util.Hashtable" target="java.util.Map">
+              <point x="34.25" y="-19.0" />
+              <point x="137.5" y="523.0" />
+              <point x="524.1071428571429" y="523.0" />
+              <point x="-41.14285714285711" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.Deque">
+              <point x="45.333333333333314" y="-19.0" />
+              <point x="346.3136904761904" y="357.0" />
+              <point x="344.75" y="357.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.Stack" target="java.util.Vector">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.List">
+              <point x="-45.33333333333337" y="-19.0" />
+              <point x="255.64702380952372" y="357.0" />
+              <point x="267.75" y="357.0" />
+              <point x="267.75" y="274.0" />
+              <point x="249.41666666666669" y="274.0" />
+              <point x="28.666666666666686" y="19.0" />
+            </edge>
+            <edge source="java.util.IdentityHashMap" target="java.util.AbstractMap">
+              <point x="-48.0" y="-19.0" />
+              <point x="900.25" y="621.0" />
+              <point x="628.85" y="621.0" />
+              <point x="63.60000000000002" y="19.0" />
+            </edge>
+            <edge source="java.util.PriorityQueue" target="java.util.Collection">
+              <point x="41.5" y="-19.0" />
+              <point x="544.75" y="186.0" />
+              <point x="465.6" y="186.0" />
+              <point x="6.850000000000023" y="19.0" />
+            </edge>
+            <edge source="java.util.TreeMap" target="java.util.AbstractMap">
+              <point x="32.25" y="-19.0" />
+              <point x="443.0" y="631.0" />
+              <point x="533.45" y="631.0" />
+              <point x="-31.80000000000001" y="19.0" />
+            </edge>
+            <edge source="java.util.PriorityQueue" target="java.util.Queue">
+              <point x="-41.5" y="-19.0" />
+              <point x="461.75" y="274.0" />
+              <point x="400.75" y="274.0" />
+              <point x="28.0" y="19.0" />
+            </edge>
+            <edge source="java.util.HashSet" target="java.util.Collection">
+              <point x="30.75" y="-19.0" />
+              <point x="1015.2083333333334" y="146.0" />
+              <point x="520.4" y="146.0" />
+              <point x="61.64999999999998" y="19.0" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-19.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.Deque" target="java.util.Queue">
+              <point x="0.0" y="-19.0" />
+              <point x="-28.0" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedHashMap" target="java.util.HashMap">
+              <point x="-46.0" y="-19.0" />
+              <point x="606.9915966386556" y="714.0" />
+              <point x="259.25" y="714.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedHashSet" target="java.util.HashSet">
+              <point x="43.25" y="-19.0" />
+              <point x="991.7083333333334" y="357.0" />
+              <point x="984.4583333333334" y="357.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.Collection">
+              <point x="0.0" y="-19.0" />
+              <point x="300.9803571428571" y="357.0" />
+              <point x="278.75" y="357.0" />
+              <point x="278.75" y="176.0" />
+              <point x="438.2" y="176.0" />
+              <point x="-20.55000000000001" y="19.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="31.5" y="-19.0" />
+              <point x="225.5" y="274.0" />
+              <point x="220.75" y="274.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="424.0" y="399.0" />
+          <SelectedNodes>
+            <node>java.util.LinkedHashSet</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/WinNTFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="440" selection-start-line="440" selection-end-line="440" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="617" selection-start-line="617" selection-end-line="617" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/MyString.java" />
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2546" column="33" selection-start-line="2546" selection-start-column="33" selection-end-line="2546" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="1020" column="80" lean-forward="true" selection-start-line="1020" selection-start-column="80" selection-end-line="1020" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="3180" column="25" lean-forward="true" selection-start-line="3180" selection-start-column="25" selection-end-line="3180" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="457" column="25" selection-start-line="457" selection-start-column="25" selection-end-line="457" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/Test.java" />
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Throwable</node>
+            <node x="" y="">java.util.AbstractMap</node>
+            <node x="" y="">java.lang.Cloneable</node>
+            <node x="" y="">java.util.Map</node>
+            <node x="" y="">java.util.HashMap</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="262.0" y="108.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/io/FileNotFoundException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/FileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1060" />
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Throwable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Throwable</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Throwable</node>
+            <node x="" y="">java.awt.AWTError</node>
+            <node x="" y="">java.lang.StackOverflowError</node>
+            <node x="" y="">java.util.MissingResourceException</node>
+            <node x="" y="">java.lang.Error</node>
+            <node x="" y="">javax.lang.model.type.UnknownTypeException</node>
+            <node x="" y="">java.io.IOException</node>
+            <node x="" y="">java.lang.RuntimeException</node>
+            <node x="" y="">java.lang.ArrayIndexOutOfBoundsException</node>
+            <node x="" y="">java.lang.IllegalArgumentException</node>
+            <node x="" y="">java.io.EOFException</node>
+            <node x="" y="">java.lang.Exception</node>
+            <node x="" y="">java.lang.NullPointerException</node>
+            <node x="" y="">java.io.FileNotFoundException</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.lang.VirtualMachineError</node>
+            <node x="" y="">java.lang.ClassNotFoundException</node>
+            <node x="" y="">java.lang.ArithmeticException</node>
+            <node x="" y="">java.lang.OutOfMemoryError</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.18867924528301888" x="4484.0" y="1207.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="613" column="7" lean-forward="true" selection-start-line="613" selection-start-column="7" selection-end-line="613" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/ExpiringCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/Alibaba.java" />
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
         </state>
       </provider>
     </entry>
