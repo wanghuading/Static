@@ -1,0 +1,5 @@
+com\microservice\springbootexperience\config\MultipleDataSourceConfiguration.class
+com\microservice\springbootexperience\repository\TestRepository$1.class
+com\microservice\springbootexperience\other\OtherEntity.class
+com\microservice\springbootexperience\pojo\TestUser.class
+com\microservice\springbootexperience\repository\TestRepository.class

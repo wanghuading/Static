@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8caeb53a-f89b-4a2b-9062-3e260f11cb63" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/src/com/sz/learn/queue/ArrayQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,8 +14,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/designPattern$ObserverTest.ic" NAME="ObserverTest Coverage Results" MODIFIED="1528384666493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sz.learn.observer.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ObserverTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,13 +111,13 @@
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/EventEntity.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/subject.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/EventListener.java" />
         <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/decorator/Login.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/MyString.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/Test.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/Alibaba.java" />
+        <option value="$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java" />
       </list>
     </option>
   </component>
@@ -112,11 +127,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="553" />
+    <option name="x" value="552" />
     <option name="y" value="135" />
-    <option name="width" value="1212" />
-    <option name="height" value="873" />
+    <option name="width" value="1213" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,25 +144,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -166,28 +171,34 @@
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../KMQueue" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -219,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Alibaba">
+  <component name="RunManager" selected="Application.ObserverTest">
     <configuration name="Alibaba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sz.learn.Alibaba" />
       <module name="designPattern" />
@@ -270,21 +281,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <list>
       <item itemvalue="Application.CustomAgentTest" />
       <item itemvalue="Application.StrategyTest" />
@@ -294,9 +290,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverTest" />
         <item itemvalue="Application.Alibaba" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ObserverTest" />
         <item itemvalue="Application.StrategyTest" />
         <item itemvalue="Application.CustomAgentTest" />
       </list>
@@ -325,38 +321,42 @@
       <workItem from="1525740089835" duration="598000" />
       <workItem from="1525921386949" duration="616000" />
       <workItem from="1526054349302" duration="24000" />
+      <workItem from="1526118746988" duration="823000" />
+      <workItem from="1528384509458" duration="882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113441000" />
+    <option name="totallyTimeSpent" value="115146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32941177" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008772" side_tool="true" weight="0.32998565" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991228" weight="0.32794118" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991228" weight="0.328125" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3299595" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15772532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16329284" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33482143" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.32924107" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Module Dependencies" order="4" weight="0.3299356" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32998884" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
@@ -364,24 +364,24 @@
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34561405" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Module Dependencies" order="0" weight="0.3299356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34561405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32924107" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32998884" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32998884" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32924107" />
       <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.65710187" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -478,116 +478,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/decorator/IThirdLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/ByteArrayInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.io.InputStream">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.io.InputStream</OriginalElement>
-          <nodes>
-            <node x="383.4814814814815" y="362.0">java.util.zip.GZIPInputStream</node>
-            <node x="242.0" y="264.0">java.io.ByteArrayInputStream</node>
-            <node x="182.93981481481484" y="88.0">java.io.Closeable</node>
-            <node x="20.0" y="264.0">java.io.FileInputStream</node>
-            <node x="164.43981481481484" y="0.0">java.lang.AutoCloseable</node>
-            <node x="334.91203703703707" y="176.0">java.io.InputStream</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.io.ByteArrayInputStream" target="java.io.InputStream">
-              <point x="0.0" y="-19.0" />
-              <point x="356.5" y="244.0" />
-              <point x="393.41203703703707" y="244.0" />
-              <point x="-19.5" y="19.0" />
-            </edge>
-            <edge source="java.io.FileInputStream" target="java.io.Closeable">
-              <point x="-45.5" y="-19.0" />
-              <point x="65.5" y="151.0" />
-              <point x="216.43981481481484" y="151.0" />
-              <point x="-33.5" y="19.0" />
-            </edge>
-            <edge source="java.util.zip.GZIPInputStream" target="java.io.InputStream">
-              <point x="64.33333333333337" y="-19.0" />
-              <point x="544.3148148148149" y="342.0" />
-              <point x="492.5" y="342.0" />
-              <point x="492.5" y="234.0" />
-              <point x="471.41203703703707" y="234.0" />
-              <point x="58.500000000000014" y="19.0" />
-            </edge>
-            <edge source="java.util.zip.GZIPInputStream" target="java.util.zip.GZIPInputStream">
-              <point x="0.0" y="19.0" />
-              <point x="479.9814814814815" y="420.0" />
-              <point x="363.4814814814815" y="420.0" />
-              <point x="363.4814814814815" y="381.0" />
-              <point x="-96.5" y="-0.0" />
-            </edge>
-            <edge source="java.io.ByteArrayInputStream" target="java.io.ByteArrayInputStream">
-              <point x="-57.25" y="19.0" />
-              <point x="299.25" y="322.0" />
-              <point x="222.0" y="322.0" />
-              <point x="222.0" y="283.0" />
-              <point x="-114.5" y="-0.0" />
-            </edge>
-            <edge source="java.util.zip.GZIPInputStream" target="java.io.ByteArrayInputStream">
-              <point x="-64.33333333333331" y="-19.0" />
-              <point x="415.64814814814815" y="342.0" />
-              <point x="413.75" y="342.0" />
-              <point x="57.25" y="19.0" />
-            </edge>
-            <edge source="java.io.InputStream" target="java.io.Closeable">
-              <point x="0.0" y="-19.0" />
-              <point x="412.91203703703707" y="151.0" />
-              <point x="283.43981481481484" y="151.0" />
-              <point x="33.5" y="19.0" />
-            </edge>
-            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
-              <point x="0.0" y="-19.0" />
-              <point x="0.0" y="19.0" />
-            </edge>
-            <edge source="java.io.FileInputStream" target="java.io.InputStream">
-              <point x="45.5" y="-19.0" />
-              <point x="156.5" y="234.0" />
-              <point x="354.41203703703707" y="234.0" />
-              <point x="-58.5" y="19.0" />
-            </edge>
-            <edge source="java.io.FileInputStream" target="java.io.FileInputStream">
-              <point x="0.0" y="19.0" />
-              <point x="111.0" y="322.0" />
-              <point x="0.0" y="322.0" />
-              <point x="0.0" y="283.0" />
-              <point x="-91.0" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-377.0" y="-83.0" />
-          <SelectedNodes>
-            <node>java.io.FileInputStream</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1230,6 +1120,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/com/sun/source/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>

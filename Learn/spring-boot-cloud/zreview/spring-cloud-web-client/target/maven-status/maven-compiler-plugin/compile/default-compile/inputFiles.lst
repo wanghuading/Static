@@ -1,0 +1,6 @@
+D:\Source\learn\code\demo\zreview\spring-cloud-web-client\src\main\java\com\microservice\SpringCloudWebClientApplication.java
+D:\Source\learn\code\demo\zreview\spring-cloud-web-client\src\main\java\com\microservice\controller\UserController.java
+D:\Source\learn\code\demo\zreview\spring-cloud-web-client\src\main\java\com\microservice\feign\UserServiceFallback.java
+D:\Source\learn\code\demo\zreview\spring-cloud-web-client\src\main\java\com\microservice\model\User.java
+D:\Source\learn\code\demo\zreview\spring-cloud-web-client\src\main\java\com\microservice\feign\UserService.java
+D:\Source\learn\code\demo\zreview\spring-cloud-web-client\src\main\java\com\microservice\feign\UseServiceFallbackFactory.java

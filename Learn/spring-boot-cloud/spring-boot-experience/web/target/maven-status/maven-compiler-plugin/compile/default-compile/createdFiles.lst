@@ -1,0 +1,4 @@
+com\microservice\springbootexperience\controller\TestController.class
+com\microservice\springbootexperience\SpringBootWebApplication.class
+com\microservice\springbootexperience\webflux\WebFluxConfiguration.class
+com\microservice\springbootexperience\webflux\TestHandler.class

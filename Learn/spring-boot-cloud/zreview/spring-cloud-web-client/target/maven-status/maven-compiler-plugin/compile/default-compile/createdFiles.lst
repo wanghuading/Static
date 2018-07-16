@@ -1,0 +1,7 @@
+com\microservice\feign\UseServiceFallbackFactory.class
+com\microservice\controller\UserController.class
+com\microservice\model\User.class
+com\microservice\feign\UserService.class
+com\microservice\feign\UseServiceFallbackFactory$1.class
+com\microservice\feign\UserServiceFallback.class
+com\microservice\SpringCloudWebClientApplication.class

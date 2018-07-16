@@ -11,9 +11,11 @@ public class ObserverTest {
     public static void main(String[] args) {
         try {
 
+            // 观察者
             Observer observer = new Observer();
             Method method = Observer.class.getMethod("advice", null);
 
+            // 被观察者
             Subject subject = new Subject();
             subject.addLisenter(EventType.ADD, observer, method);
 

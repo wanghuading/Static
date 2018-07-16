@@ -1,0 +1,3 @@
+com\microservice\personapi\domain\Person.class
+com\microservice\personapi\service\fallback\PersonServiceFallback.class
+com\microservice\personapi\service\PersonService.class

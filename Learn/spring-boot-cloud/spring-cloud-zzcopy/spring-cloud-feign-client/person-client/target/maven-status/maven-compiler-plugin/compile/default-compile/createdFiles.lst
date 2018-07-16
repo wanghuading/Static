@@ -1,0 +1,3 @@
+com\microservice\personclient\SpringCloudPersonClientApplication.class
+com\microservice\personclient\web\PersonClientController.class
+com\microservice\personclient\ribbon\MyRule.class

@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.microservice.springcloudbegin.config.CustomProperySourceLocator

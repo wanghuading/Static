@@ -1,0 +1,5 @@
+com\microservice\web\WebConfig$1.class
+com\microservice\personapi\service\PersonService.class
+com\microservice\web\WebConfig.class
+com\microservice\personapi\domain\Person.class
+com\microservice\personapi\service\fallback\PersonServiceFallback.class

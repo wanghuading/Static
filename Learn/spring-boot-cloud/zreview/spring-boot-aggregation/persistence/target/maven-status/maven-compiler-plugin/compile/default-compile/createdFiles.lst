@@ -1,0 +1,9 @@
+com\microservice\persistence\repository\UserRepository.class
+com\microservice\persistence\validater\UserConstraint.class
+com\microservice\persistence\config\MyWebmvcConfig.class
+com\microservice\persistence\config\datasource\MultiDataSource.class
+com\microservice\persistence\model\User.class
+com\microservice\persistence\config\MyHttpMessageConverter.class
+com\microservice\persistence\repository\UserRepository$1.class
+com\microservice\persistence\repository\UserRepository$2.class
+com\microservice\persistence\validater\UserValidator.class
