@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sz.mybatis.domain.Test">
+    <resultMap id="testMap" type="com.sz.mybatis.domain.Test">
+        <result property="id" column="id" />
+        <result property="name" column="name" typeHandler="com.sz.mybatis.config.ExampleTypeHandler"/>
+    </resultMap>
+    <select id="selectTest" resultType="com.sz.mybatis.domain.Test" resultMap="testMap">
+      select * from test where id = #{id}
+    </select>
+    <insert id="insertTest">
+        INSERT INTO test(name) VALUE (#{name, typeHandler=com.sz.mybatis.config.ExampleTypeHandler})
+    </insert>
+    <update id="updateTest">
+        UPDATE test SET name = #{name } WHERE id = #{id}
+    </update>
+</mapper>

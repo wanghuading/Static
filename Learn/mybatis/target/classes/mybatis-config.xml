@@ -3,18 +3,46 @@
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
+    <!--<properties resource="properties/mybatis.properties">
+        <property name="username" value="root"></property>
+    </properties>-->
+    <properties>
+        <!-- Change default value of separator -->
+        <property name="org.apache.ibatis.parsing.PropertyParser.default-value-separator" value="?:"/>
+        <!-- Enable this feature -->
+        <property name="org.apache.ibatis.parsing.PropertyParser.enable-default-value" value="true"/>
+    </properties>
+    <objectFactory type="com.sz.mybatis.config.ExampleObjectFactory">
+        <property name="someProperty" value="1010"/>
+    </objectFactory>
+    <!--<plugins>
+        <plugin interceptor="com.sz.mybatis.config.ExampleInteceptor">
+            <property name="someProperty" value="100"/>
+        </plugin>
+    </plugins>-->
     <environments default="development">
         <environment id="development">
             <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
-                <property name="driver" value="${driver}"/>
-                <property name="url" value="${url}"/>
-                <property name="username" value="${username}"/>
-                <property name="password" value="${password}"/>
+                <property name="driver" value="${mysqlDriver?:com.mysql.jdbc.Driver}"/>
+                <property name="url" value="${url?:jdbc:mysql://localhost:3306/sampledb?serverTimezone=UTC}"/>
+                <property name="username" value="${username?:root}"/>
+                <property name="password" value="${password?:123456}"/>
+            </dataSource>
+        </environment>
+        <environment id="development_1">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${mysqlDriver?:com.mysql.jdbc.Driver}"/>
+                <property name="url"
+                          value="${url?:jdbc:mysql://localhost:3306/jeeweb?serverTimezone=UTC}"/>
+                <property name="username" value="${username?:root}"/>
+                <property name="password" value="${password?:123456}"/>
             </dataSource>
         </environment>
     </environments>
     <mappers>
-        <mapper resource="org/mybatis/example/BlogMapper.xml"/>
+        <mapper resource="mapping/Test.xml"/>
     </mappers>
+
 </configuration>
