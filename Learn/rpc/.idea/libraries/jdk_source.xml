@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk-source">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Software/Java/jdk1.8.0_121/src" />
+      <root url="file://C:/Software/Java/jdk1.8.0_121/javafx-src" />
+    </SOURCES>
+  </library>
+</component>

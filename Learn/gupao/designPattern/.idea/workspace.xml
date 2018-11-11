@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8caeb53a-f89b-4a2b-9062-3e260f11cb63" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/EventSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/other/BasicModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/other/BasicModuleOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/other/Module.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sz/learn/other/ModuleOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rpc/src/main/java/com/sz/rpc/myrmi/MyRmiClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mybatis/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../mybatis/.idea/mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis/.idea/mybatis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rpc/src/main/java/com/sz/rpc/myrmi/MyRmiClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rpc/src/main/java/com/sz/rpc/myrmi/MyRmiClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-boot-cloud/spring-cloud-zzcopy/spring-cloud-config-server/src/main/resources/config" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-cloud/spring-cloud-zzcopy/spring-cloud-config-server/src/main/resources/config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-boot-cloud/zreview/spring-cloud-web-config-server/src/main/resources/config" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-cloud/zreview/spring-cloud-web-config-server/src/main/resources/config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../simple/SimpleFactory.java" beforeDir="false" />
@@ -37,30 +28,31 @@
     <session id="-702010425">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="230" />
+          <entry key="java" value="271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="230" />
+          <entry key="JAVA" value="271" />
         </counts>
       </usages-collector>
     </session>
@@ -68,32 +60,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/BasicModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2625">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#881#882#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/EventSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,61 +74,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Observable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="158" column="52" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="52" />
+            <state relative-caret-position="3060">
+              <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
               <folding>
                 <element signature="e#5937#5938#0" expanded="true" />
                 <element signature="e#5967#5968#0" expanded="true" />
+                <element signature="e#6483#6484#0" expanded="true" />
+                <element signature="e#6514#6515#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/MyApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ModuleOperate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/BasicModuleOperate.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/MyApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#3790#3791#0" expanded="true" />
-                <element signature="e#3830#3831#0" expanded="true" />
-                <element signature="e#3867#3868#0" expanded="true" />
-                <element signature="e#3898#3899#0" expanded="true" />
-                <element signature="e#3934#3935#0" expanded="true" />
-                <element signature="e#3964#3965#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperateImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -223,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sz/learn/agent/cglib/CglibAgen.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/agent/cglib/CglibAgent.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomMeipo.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/agent/custom/CustomPorxyTest.java" />
@@ -274,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/EventSource.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/MyApp.java" />
         <option value="$PROJECT_DIR$/src/com/sz/learn/other/BasicModuleOperate.java" />
+        <option value="$PROJECT_DIR$/src/com/sz/learn/observer/rxjava/SingleDemo.java" />
       </list>
     </option>
   </component>
@@ -283,8 +220,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="505" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="662" />
+    <option name="y" value="211" />
     <option name="width" value="1215" />
     <option name="height" value="875" />
   </component>
@@ -296,7 +234,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -349,19 +286,11 @@
               <item name="observer" type="462c0819:PsiDirectoryNode" />
               <item name="wikipedia" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sz" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -512,18 +441,18 @@
       <workItem from="1528384509458" duration="882000" />
       <workItem from="1532703099231" duration="2265000" />
       <workItem from="1532823613958" duration="52000" />
-      <workItem from="1533135748950" duration="461000" />
+      <workItem from="1533135748950" duration="2289000" />
+      <workItem from="1533303784194" duration="116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117924000" />
+    <option name="totallyTimeSpent" value="119868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33670714" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5614035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -531,15 +460,15 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991228" weight="0.32794118" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33482143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4188192" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008772" side_tool="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32924107" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -552,7 +481,7 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3299595" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5276549" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.55199116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -560,7 +489,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991228" weight="0.32794118" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33482143" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4188192" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -668,13 +597,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/io/BufferedReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2580">
@@ -1261,10 +1183,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1272,24 +1190,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/Module.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ModuleOperate.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperateImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/BasicModule.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperate.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/BasicModuleOperate.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/rxjava/SingleDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/EventSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/Module.java">
+    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3180">
-          <caret line="106" column="51" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ModuleOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="3060">
+          <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+          <folding>
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+            <element signature="e#6483#6484#0" expanded="true" />
+            <element signature="e#6514#6515#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1311,75 +1241,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/EventSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Software/Java/jdk1.8.0_121/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="158" column="52" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="52" />
-          <folding>
-            <element signature="e#5937#5938#0" expanded="true" />
-            <element signature="e#5967#5968#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sz/learn/observer/wikipedia/MyApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#390#391#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperateImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/BasicModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2625">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/ComparableModuleOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sz/learn/other/BasicModuleOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-          <folding>
-            <element signature="e#3790#3791#0" expanded="true" />
-            <element signature="e#3830#3831#0" expanded="true" />
-            <element signature="e#3867#3868#0" expanded="true" />
-            <element signature="e#3898#3899#0" expanded="true" />
-            <element signature="e#3934#3935#0" expanded="true" />
-            <element signature="e#3964#3965#0" expanded="true" />
           </folding>
         </state>
       </provider>
