@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ea361c9-9c2f-4d99-a061-631b8b0b9a7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/java/com/sz/demo/adaptive/RegistryFactory$Adpative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/java/com/sz/demo/adaptive/RouterFactory$Adpative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/java/com/sz/demo/adaptive/Wrapper1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/src/main/java/com/sz/DynamicCode/Protocol$Adpative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/src/main/java/com/sz/DynamicCode/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/src/main/java/com/sz/DynamicCode/Wrapper1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/src/main/java/com/sz/JavaSpiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/whd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rxjava2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableObserveOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/HelloWorld$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/HelloWorld$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/HelloWorld$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/HelloWorld$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/HelloWorld$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/Join$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/Join$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/Join$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/Join$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/Join.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/RepeatWhen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/RepeatWhen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/SimpleObservableTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/SimpleObservableTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/SimpleObservableTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/SimpleObservableTest$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/SimpleObservableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableCreateDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableCreateDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableCreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableDemo1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableRequest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableStrategy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableStrategy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/FlowableStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/OnBackpressureBufferDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/backpressure/PublishProcessorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/EasyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/RetryHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/RxjavaHttpClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/RxjavaHttpClient$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/RxjavaHttpClient$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/RxjavaHttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/httpclient/TestHttpClientWithPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyCreateEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyDisposable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyObservable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyObservableCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyObservableEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyObservableOnSubscribe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyObservableSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/MyObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/Test$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleBaseFuseableObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleDisposable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleEmitterCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableFlatMap$SimpleFlatMapObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableFlatMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableMap$SimpleMapObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableOnSubscribe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableSubscribeOn$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableSubscribeOn$SimpleObservableSubscribeOnObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObservableSubscribeOn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_1/SimpleObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowCreate$SimpleBaseEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowCreate$SimpleMissingEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowEmitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowSubscription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowableOnSubscribe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowableTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowableTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleFlowableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimplePublisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/myrxjava2_2/SimpleSubscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/scheduler/SimpleNewThreadScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/scheduler/SimpleNewThreadWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/scheduler/SimpleScheduler$MyDisposeTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sz/rxjava2/scheduler/SimpleScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/java/com/sz/demo/UserServiceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/java/com/sz/demo/UserServiceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/resources/META-INF/spring/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/src/main/resources/META-INF/spring/consumer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/classes/META-INF/spring.handlers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/classes/META-INF/spring/consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/classes/com/sz/demo/UserServiceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/classes/com/sz/demo/mock/TestMock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-consumer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-server-api/target/classes/com/sz/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-server-api/target/classes/com/sz/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/src/main/resources/META-INF/spring/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/src/main/resources/META-INF/spring/provider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/target/classes/META-INF/spring/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/dubbo-server-demo/target/classes/META-INF/spring/provider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/SimpleObservableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/SimpleObservableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-cloud/spring-cloud-zzcopy/spring-cloud-config-server/src/main/resources/config" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-cloud/spring-cloud-zzcopy/spring-cloud-config-server/src/main/resources/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-cloud/zreview/spring-cloud-web-config-server/src/main/resources/config" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-cloud/zreview/spring-cloud-web-config-server/src/main/resources/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vertx-first.zip" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/rxjava2$FlowableDemo2.ic" NAME="FlowableDemo2 Coverage Results" MODIFIED="1542640812622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sz.rxjava2.backpressure.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rxjava2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="class#315:560" />
+                <element signature="class#579:746" />
+                <element signature="class#850:1388" />
+                <element signature="class#1413:1587" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadScheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleScheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Flowable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="3599" column="44" lean-forward="true" selection-start-line="3599" selection-start-column="44" selection-end-line="3599" selection-end-column="44" />
+              <folding>
+                <element signature="e#137141#137142#0" expanded="true" />
+                <element signature="e#137210#137211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/flowable/FlowableObserveOn.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="121" column="35" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="35" />
+              <folding>
+                <element signature="method#onSubscribe#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+                <element signature="method#runSync#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+                <element signature="method#runAsync#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+                <element signature="method#runBackfused#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+                <element signature="method#poll#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Scheduler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+              <folding>
+                <element signature="e#5009#5010#0" expanded="true" />
+                <element signature="e#5084#5085#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/flowable/FlowableSubscribeOn.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+              <folding>
+                <element signature="e#2700#2701#0" expanded="true" />
+                <element signature="e#2749#2750#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar!/org/reactivestreams/Publisher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SINGLE</find>
+      <find>ConnectTimeoutException</find>
+      <find>onObservableSubscribe</find>
+      <find>subscribers</find>
+      <find>value</find>
+      <find>onNext</find>
+      <find>queue</find>
+      <find>done</find>
+      <find>deque</find>
+      <find>Log.d(TAG,</find>
+      <find>Log.w(TAG,</find>
+      <find>mSubscription</find>
+      <find>void onNext(T var1);</find>
+      <find>onSubscribe</find>
+      <find>this</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>System.out.println(</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/OnBackpressureBufferDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableRequest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableRequest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyDisposable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyEmitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyObservableOnSubscribe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyObservableSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyObservable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyObservableCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyObservableEmitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2/MyCreateEmitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/ObservableOnSubscribe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleEmitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleDisposable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimplePublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowSubscribtion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowEmitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableCreateDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableOnSubscribe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleEmitterCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowSubscription.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowableOnSubscribe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/MyBaseFuseableObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleBaseFuseableObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/MyScheduler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/MyNewThreadScheduler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/MyNewThreadWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableFlatMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableSubscribeOn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObserveOn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableObserveOn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/SimpleObservableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="backpressure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="myrxjava2_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxjava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjava2" type="462c0819:PsiDirectoryNode" />
+              <item name="scheduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547569349629" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sz.rxjava2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FlowableDemo">
+    <configuration name="FlowableCreateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.rxjava2.backpressure.FlowableCreateDemo" />
+      <module name="rxjava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.rxjava2.backpressure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.rxjava2.backpressure.FlowableDemo" />
+      <module name="rxjava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.rxjava2.backpressure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.rxjava2.HelloWorld" />
+      <module name="rxjava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.rxjava2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFlowableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.rxjava2.myrxjava2_2.SimpleFlowableTest" />
+      <module name="rxjava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.rxjava2.myrxjava2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleObservableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sz.rxjava2.SimpleObservableTest" />
+      <module name="rxjava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.rxjava2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimpleObservableTest" />
+      <item itemvalue="Application.FlowableCreateDemo" />
+      <item itemvalue="Application.SimpleFlowableTest" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.FlowableDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlowableDemo" />
+        <item itemvalue="Application.SimpleObservableTest" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.SimpleFlowableTest" />
+        <item itemvalue="Application.FlowableCreateDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea361c9-9c2f-4d99-a061-631b8b0b9a7e" name="Default Changelist" comment="" />
+      <created>1537717610394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537717610394</updated>
+      <workItem from="1537717617925" duration="8000" />
+      <workItem from="1539096022257" duration="4176000" />
+      <workItem from="1539182902620" duration="3809000" />
+      <workItem from="1539271108504" duration="2637000" />
+      <workItem from="1539956896037" duration="5967000" />
+      <workItem from="1540111909323" duration="26000" />
+      <workItem from="1540125281769" duration="4239000" />
+      <workItem from="1540165243127" duration="198000" />
+      <workItem from="1540222454346" duration="1946000" />
+      <workItem from="1540251718255" duration="8000" />
+      <workItem from="1540476872705" duration="5115000" />
+      <workItem from="1540510705963" duration="167000" />
+      <workItem from="1540650476524" duration="749000" />
+      <workItem from="1540693093463" duration="25000" />
+      <workItem from="1540994760950" duration="5267000" />
+      <workItem from="1541084533749" duration="79000" />
+      <workItem from="1541859028012" duration="5113000" />
+      <workItem from="1541941046360" duration="7443000" />
+      <workItem from="1542032921713" duration="4384000" />
+      <workItem from="1542066455064" duration="409000" />
+      <workItem from="1542067000599" duration="61000" />
+      <workItem from="1542206761682" duration="3789000" />
+      <workItem from="1542289609563" duration="1408000" />
+      <workItem from="1542292155446" duration="58000" />
+      <workItem from="1542292237096" duration="3960000" />
+      <workItem from="1542324854705" duration="676000" />
+      <workItem from="1542505283037" duration="553000" />
+      <workItem from="1542552156083" duration="2475000" />
+      <workItem from="1542583777243" duration="62000" />
+      <workItem from="1542638810342" duration="3129000" />
+      <workItem from="1542671326290" duration="375000" />
+      <workItem from="1542723199114" duration="5197000" />
+      <workItem from="1542756708037" duration="65000" />
+      <workItem from="1542811965744" duration="3708000" />
+      <workItem from="1542843154642" duration="12000" />
+      <workItem from="1542982936595" duration="1543000" />
+      <workItem from="1543042731627" duration="259000" />
+      <workItem from="1543043102301" duration="14000" />
+      <workItem from="1543849282809" duration="3904000" />
+      <workItem from="1544022649634" duration="3031000" />
+      <workItem from="1544052785382" duration="176000" />
+      <workItem from="1544456207444" duration="1484000" />
+      <workItem from="1546526603279" duration="163000" />
+      <workItem from="1546526786297" duration="5846000" />
+      <workItem from="1546613473689" duration="6059000" />
+      <workItem from="1546657979029" duration="748000" />
+      <workItem from="1546689777964" duration="12294000" />
+      <workItem from="1546734541915" duration="70000" />
+      <workItem from="1546869970282" duration="8443000" />
+      <workItem from="1546904105310" duration="20000" />
+      <workItem from="1547341617940" duration="24449000" />
+      <workItem from="1547475657143" duration="6549000" />
+      <workItem from="1547508614251" duration="3516000" />
+      <workItem from="1547562782988" duration="4988000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160849000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48754448" visible="true" weight="0.35683298" />
+      <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.3294271" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5124555" side_tool="true" weight="0.3167028" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32855436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32577565" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" visible="true" weight="0.43301436" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855436" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.50065106" weight="0.32177034" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013495" side_tool="true" weight="0.43436754" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32497013" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.49932525" weight="0.32775453" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" x="0" y="0" width="434" height="848" id="Documentation" order="0" side_tool="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24934895" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" x="473" y="175" width="854" height="500" id="Maven Projects" order="7" sideWeight="0.49934897" side_tool="true" weight="0.3268229" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329718" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48754448" visible="true" weight="0.3497831" />
+      <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.3294271" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5124555" side_tool="true" weight="0.3167028" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32855436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32577565" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" visible="true" weight="0.43301436" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855436" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.50065106" weight="0.32258064" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013495" side_tool="true" weight="0.43436754" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32497013" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.49932525" weight="0.32775453" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" x="0" y="0" width="434" height="848" id="Documentation" order="0" side_tool="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24934895" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" x="473" y="175" width="854" height="500" id="Maven Projects" order="7" sideWeight="0.49934897" side_tool="true" weight="0.3268229" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329718" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="dq" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>r=0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.requested.get() == 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((Integer) t).value == 999</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>t = 999</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>downstream</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.r</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.queue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.onSubscribe(new FlowableRange.RangeSubscription(s, this.start, this.end))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BUFFER_SIZE</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Software/Java/jdk1.8.0_121/src/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/observers/BasicFuseableObserver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/fuseable/HasUpstreamObservableSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/flowable/FlowableCreate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_2/SimpleFlowableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/ObservableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/ObservableCreate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/flowable/FlowableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/ObservableOperator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/ObservableLift.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/ObservableSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/functions/Function.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/AbstractObservableWithUpstream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="11" column="88" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Java/jdk1.8.0_121/src/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1955" selection-start-line="1955" selection-end-line="1955" />
+          <folding>
+            <element signature="e#75844#75845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleEmitterCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/ObservableFlatMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="203" column="42" lean-forward="true" selection-start-line="203" selection-start-column="42" selection-end-line="203" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/schedulers/Schedulers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/disposables/Disposable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/MyWorker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/schedulers/RxThreadFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/schedulers/SchedulerRunnableIntrospection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/schedulers/NewThreadScheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/schedulers/SchedulerPoolFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="64" column="77" selection-start-line="64" selection-start-column="77" selection-end-line="64" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleBaseFuseableObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableFlatMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/ObservableSubscribeOn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Observable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="2427" column="28" lean-forward="true" selection-start-line="2427" selection-start-column="28" selection-end-line="2427" selection-end-column="28" />
+          <folding>
+            <element signature="e#121927#121928#0" expanded="true" />
+            <element signature="e#121996#121997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/observable/ObservableObserveOn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/schedulers/NewThreadWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObserveOn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableOnSubscribe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableObserveOn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="58" column="92" selection-start-line="58" selection-start-column="92" selection-end-line="58" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/myrxjava2_1/SimpleObservableSubscribeOn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/SimpleObservableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="52" column="81" lean-forward="true" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1718#1719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleNewThreadWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/scheduler/SimpleScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="class#315:560" />
+            <element signature="class#579:746" />
+            <element signature="class#850:1388" />
+            <element signature="class#1413:1587" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Scheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+          <folding>
+            <element signature="e#5009#5010#0" expanded="true" />
+            <element signature="e#5084#5085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/flowable/FlowableObserveOn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="121" column="35" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="35" />
+          <folding>
+            <element signature="method#onSubscribe#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+            <element signature="method#runSync#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+            <element signature="method#runAsync#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+            <element signature="method#runBackfused#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+            <element signature="method#poll#0;class#ObserveOnSubscriber#0;class#FlowableObserveOn#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/Flowable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="3599" column="44" lean-forward="true" selection-start-line="3599" selection-start-column="44" selection-end-line="3599" selection-end-column="44" />
+          <folding>
+            <element signature="e#137141#137142#0" expanded="true" />
+            <element signature="e#137210#137211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar!/org/reactivestreams/Publisher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.2/rxjava-2.2.2.jar!/io/reactivex/internal/operators/flowable/FlowableSubscribeOn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding>
+            <element signature="e#2700#2701#0" expanded="true" />
+            <element signature="e#2749#2750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/rxjava2/backpressure/FlowableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

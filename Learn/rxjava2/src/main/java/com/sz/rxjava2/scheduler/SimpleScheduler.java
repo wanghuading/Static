@@ -5,7 +5,7 @@ import com.sz.rxjava2.myrxjava2.MyDisposable;
 import java.util.concurrent.TimeUnit;
 
 public abstract class SimpleScheduler {
-    public abstract MyWorker createWorker();
+    public abstract SimpleWorker createWorker();
 
     public MyDisposable scheduleDirect(Runnable run) {
         return this.scheduleDirect(run, 0L, TimeUnit.NANOSECONDS);
@@ -13,13 +13,13 @@ public abstract class SimpleScheduler {
 
     public MyDisposable scheduleDirect(Runnable run, long delay,
                                        TimeUnit unit) {
-        SimpleScheduler.MyWorker w = this.createWorker();
+        SimpleWorker w = this.createWorker();
         MyDisposeTask task = new SimpleScheduler.MyDisposeTask(run, w);
         w.schedule(task, delay, unit);
         return task;
     }
 
-    public abstract static class MyWorker {
+    public abstract static class SimpleWorker {
         public MyDisposable schedule(Runnable run) {
             return this.schedule(run, 0L, TimeUnit.NANOSECONDS);
         }
@@ -30,10 +30,10 @@ public abstract class SimpleScheduler {
 
     static final class MyDisposeTask implements MyDisposable, Runnable {
         final Runnable decoratedRun;
-        final SimpleScheduler.MyWorker w;
+        final SimpleWorker w;
         Thread runner;
 
-        MyDisposeTask(Runnable decoratedRun, SimpleScheduler.MyWorker w) {
+        MyDisposeTask(Runnable decoratedRun, SimpleWorker w) {
             this.decoratedRun = decoratedRun;
             this.w = w;
         }

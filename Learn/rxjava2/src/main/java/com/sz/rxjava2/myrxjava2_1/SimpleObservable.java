@@ -17,8 +17,12 @@ public abstract class SimpleObservable<T> implements SimpleObservableSource<T> {
 		return new SimpleObservableFlatMap(this, function);
 	}
 
-	public SimpleObservable SimpleSubscribeOn(SimpleScheduler scheduler) {
+	public SimpleObservable<T> SimpleSubscribeOn(SimpleScheduler scheduler) {
 		return new SimpleObservableSubscribeOn(this, scheduler);
+	}
+
+	public SimpleObservable<T> SimpleObserverOn(SimpleScheduler scheduler) {
+		return new SimpleObservableObserveOn<T>(this, scheduler);
 	}
 	
 	@Override

@@ -1,15 +1,15 @@
 package com.sz.rxjava2.scheduler;
 
 import com.sz.rxjava2.myrxjava2.MyDisposable;
-import com.sz.rxjava2.scheduler.SimpleScheduler.MyWorker;
+import com.sz.rxjava2.scheduler.SimpleScheduler.SimpleWorker;
 
 import java.util.concurrent.*;
 
-public class SimpleNewThreadWorker extends MyWorker implements MyDisposable {
+public class SimpleNewThreadWorker extends SimpleWorker implements MyDisposable {
     private final ScheduledExecutorService executor;
 
     public SimpleNewThreadWorker(ThreadFactory factory) {
-        this.executor = Executors.newScheduledThreadPool(1, factory);
+        this.executor = Executors.newScheduledThreadPool(5, factory);
     }
 
     @Override

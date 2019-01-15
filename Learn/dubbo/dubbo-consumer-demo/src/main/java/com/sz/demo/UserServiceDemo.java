@@ -12,6 +12,11 @@ public class UserServiceDemo {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("classpath:**/consumer.xml");
         context.start();
         UserService userService = (UserService) context.getBean("userService");
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         User user = userService.getUser("user1");
         System.out.println(user.getName());
         try {

@@ -12,10 +12,5 @@
     <dubbo:protocol name="dubbo" port="20880"/>
     <!-- 注册中心 -->
     <dubbo:registry address="120.79.68.205:2181" protocol="zookeeper"/>
-    <dubbo:reference id="userService" interface="com.sz.service.UserService"
-                     check="true"
-                     cluster="failfast"
-                     timeout="1"
-                     mock="com.sz.demo.mock.TestMock"
-    />
+    <dubbo:reference id="userService" interface="com.sz.service.UserService"/>
 </beans>

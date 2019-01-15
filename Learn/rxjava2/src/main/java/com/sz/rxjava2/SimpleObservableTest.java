@@ -8,57 +8,67 @@ import com.sz.rxjava2.myrxjava2_2.SimpleFlowEmitter;
 import com.sz.rxjava2.scheduler.SimpleNewThreadScheduler;
 
 public class SimpleObservableTest {
-	public static void main(String[] args) {
-		SimpleObservable.create(new SimpleObservableOnSubscribe<String>() {
-			@Override
-			public void subscribe(SimpleFlowEmitter<String> emitter) {
-				emitter.onNext("111");
-			}
-		}).map(new SimpleFunction<String, Integer>() {
-			@Override
-			public Integer apply(String var1) {
-				return Integer.valueOf(var1);
-			}
-		})
-		.SimpleSubscribeOn(new SimpleNewThreadScheduler())
-		.flatMap(new SimpleFunction<Integer, SimpleObservable>() {
-			@Override
-			public SimpleObservable apply(Integer var1) {
-				return SimpleObservable.create(new SimpleObservableOnSubscribe<Integer>() {
-					@Override
-					public void subscribe(SimpleFlowEmitter<Integer> emitter) {
-						emitter.onNext(222);
-						emitter.onNext(var1);
-					}
-				});
-			}
-		})
-		.subscribe(new SimpleObserver<Integer>() {
-			@Override
-			public void onSubscribe() {
+    public static void main(String[] args) {
+        SimpleObservable.create(new SimpleObservableOnSubscribe<String>() {
+            @Override
+            public void subscribe(SimpleFlowEmitter<String> emitter) {
+                emitter.onNext("111");
+            }
+        }).map(new SimpleFunction<String, Integer>() {
+            @Override
+            public Integer apply(String var1) {
+                return Integer.valueOf(var1);
+            }
+        })
+            .SimpleSubscribeOn(new SimpleNewThreadScheduler())
+//            .SimpleObserverOn(new SimpleNewThreadScheduler())
+            .flatMap(new SimpleFunction<Integer, SimpleObservable>() {
+                @Override
+                public SimpleObservable apply(Integer var1) {
+                    return SimpleObservable.create(new SimpleObservableOnSubscribe<Integer>() {
+                        @Override
+                        public void subscribe(SimpleFlowEmitter<Integer> emitter) {
+                            emitter.onNext(222);
+                            emitter.onNext(var1);
+                        }
+                    });
+                }
+            })
+            .SimpleSubscribeOn(new SimpleNewThreadScheduler())
+//            .SimpleObserverOn(new SimpleNewThreadScheduler())
+            .map(new SimpleFunction<Integer, Integer>() {
+                @Override
+                public Integer apply(Integer var1) {
+                    return var1 + 5;
+                }
+            })
+            .subscribe(new SimpleObserver<Integer>() {
+                @Override
+                public void onSubscribe() {
 
-			}
+                }
 
-			@Override
-			public void onNext(Integer integer) {
-				System.out.println(integer);
-			}
+                @Override
+                public void onNext(Integer integer) {
+                    System.out.println("last:"+Thread.currentThread().getName());
+                    System.out.println(integer);
+                }
 
-			@Override
-			public void onError() {
+                @Override
+                public void onError() {
 
-			}
+                }
 
-			@Override
-			public void onComplete() {
+                @Override
+                public void onComplete() {
 
-			}
-		});
+                }
+            });
 
-		try {
-			Thread.sleep(2000);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-	}
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 }

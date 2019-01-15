@@ -16,7 +16,7 @@ public class SimpleNewThreadScheduler extends SimpleScheduler {
     }
 
     @Override
-    public MyWorker createWorker() {
+    public SimpleWorker createWorker() {
         return new SimpleNewThreadWorker(this.threadFactory);
     }
 
